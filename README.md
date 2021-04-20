@@ -1,2 +1,2 @@
-# javascript-image-comparison
+# Javascript Image Comparison
 Javacript Image Comparision - tiny and simple.
